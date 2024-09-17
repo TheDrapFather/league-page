@@ -8,11 +8,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome, to The League of Champions. A league of rich history and passion for everything football. Founded in 2013 as a 16-man supperleague, The League of Champions began with a championship won by long time manager Paul Grizzle, who now co-manages a team with his daughter Paula after a breif retirement. The following year, the league was cut down to 12 teams and has remained there since.</p>
-  <p></p>
-  <p></p>
-  <p></p>
-  <p></p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 `;
 
 /*   STEP 3   */
