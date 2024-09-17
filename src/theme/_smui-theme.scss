@@ -6,7 +6,7 @@
 @use '@material/theme/index' as theme with (
   $primary: #38761D,
   $secondary: #FDB927,
-  $surface: #fff,
+  $surface: #FDB927,
   $background: #fff,
   $error: color-palette.$red-900,
 );
@@ -54,7 +54,7 @@
   --boxShadowThree: #d4d4d4;
   --ir: #ddd;
   --champShadow: #FDB927;
-  --transactHeader: #f5fcff;
+  --transactHeader: #9cbb8f;
   --draftSwapped: #f8fcff;
   --waiverAdd: #e9fff1;
   --waiverDrop: #ffe9e9;
