@@ -163,12 +163,12 @@ strong {
 }
 
 a {
-  color: #6FBA4F;
+  color: #FDB927;
 }
 a:visited {
-  color: color.scale(#6FBA4F, $lightness: -35%);
+  color: color.scale(#FDB927, $lightness: -35%);
 }
 
 .mdc-button--outlined:not(:disabled) {
-  background-color: #7FC75F !important;
+  background-color: #FDB927 !important;
 }
